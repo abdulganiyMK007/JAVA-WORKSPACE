@@ -1,0 +1,2415 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PolygonViewer",
+            "request": "launch",
+            "mainClass": "Chapter7.PolygonViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CloudViewer",
+            "request": "launch",
+            "mainClass": "Chapter7.CloudViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RoseViewer",
+            "request": "launch",
+            "mainClass": "Chapter6.RoseViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GraphCurveViewer",
+            "request": "launch",
+            "mainClass": "Chapter6.GraphCurveViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SpiralViewer",
+            "request": "launch",
+            "mainClass": "Chapter6.SpiralViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StarViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.StarViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Gallery5",
+            "request": "launch",
+            "mainClass": "Gallery.Gallery5",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "chapter13.Permutations",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FileFinderDemo",
+            "request": "launch",
+            "mainClass": "chapter13.FileFinderDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SineWaveViewer",
+            "request": "launch",
+            "mainClass": "Chapter7.SineWaveViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CheckerBoardViewer",
+            "request": "launch",
+            "mainClass": "Chapter7.CheckerBoardViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Negative",
+            "request": "launch",
+            "mainClass": "Chapter6.Negative",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BankSimulator",
+            "request": "launch",
+            "mainClass": "BankSimulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CaesarEncryptor",
+            "request": "launch",
+            "mainClass": "CaesarEncryptor",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CannonballSimulator",
+            "request": "launch",
+            "mainClass": "CannonballSimulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CashRegisterTester",
+            "request": "launch",
+            "mainClass": "CashRegisterTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Balloon",
+            "request": "launch",
+            "mainClass": "Chapter3.Balloon",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountTester",
+            "request": "launch",
+            "mainClass": "Chapter3.BankAccountTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BugTester",
+            "request": "launch",
+            "mainClass": "Chapter3.BugTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CarTester",
+            "request": "launch",
+            "mainClass": "Chapter3.CarTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CarViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.CarViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CashRegisterTester(1)",
+            "request": "launch",
+            "mainClass": "Chapter3.CashRegisterTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CircuitTester",
+            "request": "launch",
+            "mainClass": "Chapter3.CircuitTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeTester",
+            "request": "launch",
+            "mainClass": "Chapter3.EmployeeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FrameEllipseViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.FrameEllipseViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GreeterTester",
+            "request": "launch",
+            "mainClass": "Chapter3.GreeterTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HouseViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.HouseViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ItalianFlagViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.ItalianFlagViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LetterPrinter",
+            "request": "launch",
+            "mainClass": "Chapter3.LetterPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MenuDemo",
+            "request": "launch",
+            "mainClass": "Chapter3.MenuDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Microwave",
+            "request": "launch",
+            "mainClass": "Chapter3.Microwave",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MicrowaveTester",
+            "request": "launch",
+            "mainClass": "Chapter3.MicrowaveTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MothTester",
+            "request": "launch",
+            "mainClass": "Chapter3.MothTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "OlympicRingViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.OlympicRingViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PersonTester",
+            "request": "launch",
+            "mainClass": "Chapter3.PersonTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ProductPrinter",
+            "request": "launch",
+            "mainClass": "Chapter3.ProductPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RangeInputTester",
+            "request": "launch",
+            "mainClass": "Chapter3.RangeInputTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RoachPopulationTester",
+            "request": "launch",
+            "mainClass": "Chapter3.RoachPopulationTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Sheet",
+            "request": "launch",
+            "mainClass": "Chapter3.Sheet",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StudentTester",
+            "request": "launch",
+            "mainClass": "Chapter3.StudentTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TallyCounterDemo",
+            "request": "launch",
+            "mainClass": "Chapter3.TallyCounterDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TargetViewer",
+            "request": "launch",
+            "mainClass": "Chapter3.TargetViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "VotingMachineTester",
+            "request": "launch",
+            "mainClass": "Chapter3.VotingMachineTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BalloonTester",
+            "request": "launch",
+            "mainClass": "Chapter4.BalloonTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BoatTester",
+            "request": "launch",
+            "mainClass": "Chapter4.BoatTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BookStore",
+            "request": "launch",
+            "mainClass": "Chapter4.BookStore",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Chapter4.Car",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ChristmasTree",
+            "request": "launch",
+            "mainClass": "Chapter4.ChristmasTree",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DewTemperature",
+            "request": "launch",
+            "mainClass": "Chapter4.DewTemperature",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DiscountCalculator",
+            "request": "launch",
+            "mainClass": "Chapter4.DiscountCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "EasterSunday",
+            "request": "launch",
+            "mainClass": "Chapter4.EasterSunday",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ExtractDollarCent",
+            "request": "launch",
+            "mainClass": "Chapter4.ExtractDollarCent",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ExtractMonth",
+            "request": "launch",
+            "mainClass": "Chapter4.ExtractMonth",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HybridCar",
+            "request": "launch",
+            "mainClass": "Chapter4.HybridCar",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "IceCreamConeTester",
+            "request": "launch",
+            "mainClass": "Chapter4.IceCreamConeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InsertComma",
+            "request": "launch",
+            "mainClass": "Chapter4.InsertComma",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LargeHello",
+            "request": "launch",
+            "mainClass": "Chapter4.LargeHello",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LetterToMilli",
+            "request": "launch",
+            "mainClass": "Chapter4.LetterToMilli",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LiquidTemperature",
+            "request": "launch",
+            "mainClass": "Chapter4.LiquidTemperature",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MessageDialogTester",
+            "request": "launch",
+            "mainClass": "Chapter4.MessageDialogTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MeterToInchFeetMile",
+            "request": "launch",
+            "mainClass": "Chapter4.MeterToInchFeetMile",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MilitaryTime",
+            "request": "launch",
+            "mainClass": "Chapter4.MilitaryTime",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "NumberTeat",
+            "request": "launch",
+            "mainClass": "Chapter4.NumberTeat",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumber",
+            "request": "launch",
+            "mainClass": "Chapter4.PhoneNumber",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PrintTicTacToeGrid",
+            "request": "launch",
+            "mainClass": "Chapter4.PrintTicTacToeGrid",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RemoveComma",
+            "request": "launch",
+            "mainClass": "Chapter4.RemoveComma",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SodaCanTester",
+            "request": "launch",
+            "mainClass": "Chapter4.SodaCanTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SourceVoltage",
+            "request": "launch",
+            "mainClass": "Chapter4.SourceVoltage",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TotalResistance",
+            "request": "launch",
+            "mainClass": "Chapter4.TotalResistance",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TriangleTester",
+            "request": "launch",
+            "mainClass": "Chapter4.TriangleTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TurningCircuit",
+            "request": "launch",
+            "mainClass": "Chapter4.TurningCircuit",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TwoIntegers",
+            "request": "launch",
+            "mainClass": "Chapter4.TwoIntegers",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "AddFrenchSubscript",
+            "request": "launch",
+            "mainClass": "Chapter5.AddFrenchSubscript",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ArrangeThreeStrings",
+            "request": "launch",
+            "mainClass": "Chapter5.ArrangeThreeStrings",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BankTransactionSimulation",
+            "request": "launch",
+            "mainClass": "Chapter5.BankTransactionSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CardTester",
+            "request": "launch",
+            "mainClass": "Chapter5.CardTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CometJumpEscape",
+            "request": "launch",
+            "mainClass": "Chapter5.CometJumpEscape",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareFirstAndLastLetter",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareFirstAndLastLetter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareHalvedString",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareHalvedString",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareMilitaryTime",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareMilitaryTime",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareThreeIntegers",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareThreeIntegers",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareThreeNumbers",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareThreeNumbers",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CompareToTwoDecimalPlaces",
+            "request": "launch",
+            "mainClass": "Chapter5.CompareToTwoDecimalPlaces",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DateTester",
+            "request": "launch",
+            "mainClass": "Chapter5.DateTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DoorSimulation",
+            "request": "launch",
+            "mainClass": "Chapter5.DoorSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ElectromagneticSpectrum",
+            "request": "launch",
+            "mainClass": "Chapter5.ElectromagneticSpectrum",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ExtractMiddleLetter",
+            "request": "launch",
+            "mainClass": "Chapter5.ExtractMiddleLetter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FrostTemperature",
+            "request": "launch",
+            "mainClass": "Chapter5.FrostTemperature",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GradeTester",
+            "request": "launch",
+            "mainClass": "Chapter5.GradeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MilitaryTime(1)",
+            "request": "launch",
+            "mainClass": "Chapter5.MilitaryTime",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MonthTester",
+            "request": "launch",
+            "mainClass": "Chapter5.MonthTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "NeedleCompassDirection",
+            "request": "launch",
+            "mainClass": "Chapter5.NeedleCompassDirection",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PayCheckCalculator",
+            "request": "launch",
+            "mainClass": "Chapter5.PayCheckCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PinSimulation",
+            "request": "launch",
+            "mainClass": "Chapter5.PinSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QuadrilateralTester",
+            "request": "launch",
+            "mainClass": "Chapter5.QuadrilateralTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RomanNumbers",
+            "request": "launch",
+            "mainClass": "Chapter5.RomanNumbers",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TaxIncome",
+            "request": "launch",
+            "mainClass": "Chapter5.TaxIncome",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Chapter5.Temperature",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ThreeFloatingPoints",
+            "request": "launch",
+            "mainClass": "Chapter5.ThreeFloatingPoints",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ThreeNumbersInOrder",
+            "request": "launch",
+            "mainClass": "Chapter5.ThreeNumbersInOrder",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TimeTester",
+            "request": "launch",
+            "mainClass": "Chapter5.TimeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TriangleAngle",
+            "request": "launch",
+            "mainClass": "Chapter5.TriangleAngle",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TriangleTester(1)",
+            "request": "launch",
+            "mainClass": "Chapter5.TriangleTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TwoPairs",
+            "request": "launch",
+            "mainClass": "Chapter5.TwoPairs",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "UnitConverter",
+            "request": "launch",
+            "mainClass": "Chapter5.UnitConverter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "YearTester",
+            "request": "launch",
+            "mainClass": "Chapter5.YearTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Asterisk",
+            "request": "launch",
+            "mainClass": "Chapter6.Asterisk",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BarSize",
+            "request": "launch",
+            "mainClass": "Chapter6.BarSize",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Chapter6.Binary",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CombinationTwist",
+            "request": "launch",
+            "mainClass": "Chapter6.CombinationTwist",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CreditNumber",
+            "request": "launch",
+            "mainClass": "Chapter6.CreditNumber",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DataSetTester",
+            "request": "launch",
+            "mainClass": "Chapter6.DataSetTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Chapter6.Diamond",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DollarsToYen",
+            "request": "launch",
+            "mainClass": "Chapter6.DollarsToYen",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DoorSimulation(1)",
+            "request": "launch",
+            "mainClass": "Chapter6.DoorSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DrunkWalk",
+            "request": "launch",
+            "mainClass": "Chapter6.DrunkWalk",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FactorGen",
+            "request": "launch",
+            "mainClass": "Chapter6.FactorGen",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FactorPrinter",
+            "request": "launch",
+            "mainClass": "Chapter6.FactorPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Chapter6.Fibonacci",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GameOfNim",
+            "request": "launch",
+            "mainClass": "Chapter6.GameOfNim",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HullModel",
+            "request": "launch",
+            "mainClass": "Chapter6.HullModel",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "IntegersManipulator",
+            "request": "launch",
+            "mainClass": "Chapter6.IntegersManipulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MonteCarlo",
+            "request": "launch",
+            "mainClass": "Chapter6.MonteCarlo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MontyHallParadoxSimulation",
+            "request": "launch",
+            "mainClass": "Chapter6.MontyHallParadoxSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "NeedlePieSimulation",
+            "request": "launch",
+            "mainClass": "Chapter6.NeedlePieSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PreyPredatorSimilation",
+            "request": "launch",
+            "mainClass": "Chapter6.PreyPredatorSimilation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PrimePrinter",
+            "request": "launch",
+            "mainClass": "Chapter6.PrimePrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Chapter6.Print",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ProjectileSimulation",
+            "request": "launch",
+            "mainClass": "Chapter6.ProjectileSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Chapter6.Reverse",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StringManipulator",
+            "request": "launch",
+            "mainClass": "Chapter6.StringManipulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Chapter6.Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TicketSeller",
+            "request": "launch",
+            "mainClass": "Chapter6.TicketSeller",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TravelSimulation",
+            "request": "launch",
+            "mainClass": "Chapter6.TravelSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TurnsRatio",
+            "request": "launch",
+            "mainClass": "Chapter6.TurnsRatio",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TwoSixInDie",
+            "request": "launch",
+            "mainClass": "Chapter6.TwoSixInDie",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "WordCharacterPermute",
+            "request": "launch",
+            "mainClass": "Chapter6.WordCharacterPermute",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "AlternateSum",
+            "request": "launch",
+            "mainClass": "Chapter7.AlternateSum",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ArrangeInAscendingOrder",
+            "request": "launch",
+            "mainClass": "Chapter7.ArrangeInAscendingOrder",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMerhodsTester",
+            "request": "launch",
+            "mainClass": "Chapter7.ArrayMerhodsTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BarchartHorizontal",
+            "request": "launch",
+            "mainClass": "Chapter7.BarchartHorizontal",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BarchartVertical",
+            "request": "launch",
+            "mainClass": "Chapter7.BarchartVertical",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BulgarianSolitaire",
+            "request": "launch",
+            "mainClass": "Chapter7.BulgarianSolitaire",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DataPrinter",
+            "request": "launch",
+            "mainClass": "Chapter7.DataPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DataSetCalculator",
+            "request": "launch",
+            "mainClass": "Chapter7.DataSetCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DiceAnalyzer",
+            "request": "launch",
+            "mainClass": "Chapter7.DiceAnalyzer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "EqualValues",
+            "request": "launch",
+            "mainClass": "Chapter7.EqualValues",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FourByFourMagicSquareTest",
+            "request": "launch",
+            "mainClass": "Chapter7.FourByFourMagicSquareTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GameOfLifeDemo",
+            "request": "launch",
+            "mainClass": "Chapter7.GameOfLifeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GivingChange",
+            "request": "launch",
+            "mainClass": "Chapter7.GivingChange",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InsertRemoveSwap",
+            "request": "launch",
+            "mainClass": "Chapter7.InsertRemoveSwap",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InvoiceDemo",
+            "request": "launch",
+            "mainClass": "Chapter7.InvoiceDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MagicSquareGenerator",
+            "request": "launch",
+            "mainClass": "Chapter7.MagicSquareGenerator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Medal",
+            "request": "launch",
+            "mainClass": "Chapter7.Medal",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RandomFill",
+            "request": "launch",
+            "mainClass": "Chapter7.RandomFill",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RandomPermutation",
+            "request": "launch",
+            "mainClass": "Chapter7.RandomPermutation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Chapter7.RemoveDuplicates",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Reverse(1)",
+            "request": "launch",
+            "mainClass": "Chapter7.Reverse",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SequenceListTester",
+            "request": "launch",
+            "mainClass": "Chapter7.SequenceListTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SequenceTester",
+            "request": "launch",
+            "mainClass": "Chapter7.SequenceTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Chapter7.Sort",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StoreDemo",
+            "request": "launch",
+            "mainClass": "Chapter7.StoreDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SumWithoutSmallest",
+            "request": "launch",
+            "mainClass": "Chapter7.SumWithoutSmallest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TablePrinter",
+            "request": "launch",
+            "mainClass": "Chapter7.TablePrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TerrainSimulator",
+            "request": "launch",
+            "mainClass": "Chapter7.TerrainSimulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "Chapter7.Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TheaterSeatingChartDemo",
+            "request": "launch",
+            "mainClass": "Chapter7.TheaterSeatingChartDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToeSimulation",
+            "request": "launch",
+            "mainClass": "Chapter7.TicTacToeSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "VideoPokerSimulator",
+            "request": "launch",
+            "mainClass": "Chapter7.VideoPokerSimulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "WorldPopulation",
+            "request": "launch",
+            "mainClass": "Chapter7.WorldPopulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "AmplifierDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.AmplifierDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "AppointmentBook",
+            "request": "launch",
+            "mainClass": "Chapter9.AppointmentBook",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BikeDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.BikeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ChessDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.ChessDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CircuitDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.CircuitDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ClockDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.ClockDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.EmployeeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Negative",
+            "request": "launch",
+            "mainClass": "Chapter9.Negative",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PersonDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.PersonDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QuestionChoiceDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.QuestionChoiceDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QuestionDemo1",
+            "request": "launch",
+            "mainClass": "Chapter9.QuestionDemo1",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QuestionDemo2",
+            "request": "launch",
+            "mainClass": "Chapter9.QuestionDemo2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QuestionDemo3",
+            "request": "launch",
+            "mainClass": "Chapter9.QuestionDemo3",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ResonantCircuitDemo",
+            "request": "launch",
+            "mainClass": "Chapter9.ResonantCircuitDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ComboLockTester",
+            "request": "launch",
+            "mainClass": "ComboLockTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CreatingAndDeleting",
+            "request": "launch",
+            "mainClass": "CreatingAndDeleting",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CustomerDemo",
+            "request": "launch",
+            "mainClass": "CustomerDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FIleReader",
+            "request": "launch",
+            "mainClass": "FIleReader",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FileMethods",
+            "request": "launch",
+            "mainClass": "FileMethods",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FileOperatorMethod",
+            "request": "launch",
+            "mainClass": "FileOperatorMethod",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GeometryCalculator",
+            "request": "launch",
+            "mainClass": "GeometryCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LetterFrequencies",
+            "request": "launch",
+            "mainClass": "LetterFrequencies",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LoggerTest",
+            "request": "launch",
+            "mainClass": "LoggerTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LoginFormSimulator",
+            "request": "launch",
+            "mainClass": "LoginFormSimulator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "NumbersInStringDemo",
+            "request": "launch",
+            "mainClass": "NumbersInStringDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "OnlyCharacters",
+            "request": "launch",
+            "mainClass": "OnlyCharacters",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ParagraphJustifierDemo",
+            "request": "launch",
+            "mainClass": "ParagraphJustifierDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PathDemo",
+            "request": "launch",
+            "mainClass": "PathDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PlayfairEncryptor",
+            "request": "launch",
+            "mainClass": "PlayfairEncryptor",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PostalCodeTester",
+            "request": "launch",
+            "mainClass": "PostalCodeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RandomMonoalphabetEncryptor",
+            "request": "launch",
+            "mainClass": "RandomMonoalphabetEncryptor",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ReaderDemo",
+            "request": "launch",
+            "mainClass": "ReaderDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ResistorTester",
+            "request": "launch",
+            "mainClass": "ResistorTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RobotSimulation",
+            "request": "launch",
+            "mainClass": "RobotSimulation",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SerialDemo",
+            "request": "launch",
+            "mainClass": "SerialDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StudentIDTester",
+            "request": "launch",
+            "mainClass": "StudentIDTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SubstringInString",
+            "request": "launch",
+            "mainClass": "SubstringInString",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TableTester",
+            "request": "launch",
+            "mainClass": "TableTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "URLGet",
+            "request": "launch",
+            "mainClass": "URLGet",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "UsefulFileOperations",
+            "request": "launch",
+            "mainClass": "UsefulFileOperations",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "VigenèreEncryptor",
+            "request": "launch",
+            "mainClass": "VigenèreEncryptor",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "VisitingDirectories",
+            "request": "launch",
+            "mainClass": "VisitingDirectories",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "VoltageGainTest",
+            "request": "launch",
+            "mainClass": "VoltageGainTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "WebGet",
+            "request": "launch",
+            "mainClass": "WebGet",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchDemo",
+            "request": "launch",
+            "mainClass": "chapter14.BinarySearchDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CountryFileReader",
+            "request": "launch",
+            "mainClass": "chapter14.CountryFileReader",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "chapter14.Demo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LargestInArrayList",
+            "request": "launch",
+            "mainClass": "chapter14.LargestInArrayList",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchDemo",
+            "request": "launch",
+            "mainClass": "chapter14.LinearSearchDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortTimer",
+            "request": "launch",
+            "mainClass": "chapter14.SelectionSortTimer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SorterDemo",
+            "request": "launch",
+            "mainClass": "chapter14.SorterDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TableTimerDemo",
+            "request": "launch",
+            "mainClass": "chapter14.TableTimerDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BankSimulationRunner",
+            "request": "launch",
+            "mainClass": "chapter15.BankSimulationRunner",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "chapter15.Calculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsDemo",
+            "request": "launch",
+            "mainClass": "chapter15.CollectionsDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DistanceToDemo",
+            "request": "launch",
+            "mainClass": "chapter15.DistanceToDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "EratosthenesSiever",
+            "request": "launch",
+            "mainClass": "chapter15.EratosthenesSiever",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionCalculator",
+            "request": "launch",
+            "mainClass": "chapter15.ExpressionCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionCalculatorBig",
+            "request": "launch",
+            "mainClass": "chapter15.ExpressionCalculatorBig",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GradeEditor",
+            "request": "launch",
+            "mainClass": "chapter15.GradeEditor",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GradeUpdater",
+            "request": "launch",
+            "mainClass": "chapter15.GradeUpdater",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HashCodePrinter",
+            "request": "launch",
+            "mainClass": "chapter15.HashCodePrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "IdentifierIndexer",
+            "request": "launch",
+            "mainClass": "chapter15.IdentifierIndexer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "KeypadDigitToLetterMapper",
+            "request": "launch",
+            "mainClass": "chapter15.KeypadDigitToLetterMapper",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LinkListDemo",
+            "request": "launch",
+            "mainClass": "chapter15.LinkListDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ListDemo",
+            "request": "launch",
+            "mainClass": "chapter15.ListDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MapDemo",
+            "request": "launch",
+            "mainClass": "chapter15.MapDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MazeSolver",
+            "request": "launch",
+            "mainClass": "chapter15.MazeSolver",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MultipleStockGainCalculator",
+            "request": "launch",
+            "mainClass": "chapter15.MultipleStockGainCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ParenChecker",
+            "request": "launch",
+            "mainClass": "chapter15.ParenChecker",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PolynomialDemo",
+            "request": "launch",
+            "mainClass": "chapter15.PolynomialDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueDemo",
+            "request": "launch",
+            "mainClass": "chapter15.PriorityQueueDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QueueDemo",
+            "request": "launch",
+            "mainClass": "chapter15.QueueDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SameFirstLetterWordMapper",
+            "request": "launch",
+            "mainClass": "chapter15.SameFirstLetterWordMapper",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SameHashCoder",
+            "request": "launch",
+            "mainClass": "chapter15.SameHashCoder",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SameLengthWordMapper",
+            "request": "launch",
+            "mainClass": "chapter15.SameLengthWordMapper",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SetTimer",
+            "request": "launch",
+            "mainClass": "chapter15.SetTimer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SieveOfEratosthenes",
+            "request": "launch",
+            "mainClass": "chapter15.SieveOfEratosthenes",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SingleStockGainCalculator",
+            "request": "launch",
+            "mainClass": "chapter15.SingleStockGainCalculator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "SpellCheck",
+            "request": "launch",
+            "mainClass": "chapter15.SpellCheck",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "chapter15.StackDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StackQueueDemo",
+            "request": "launch",
+            "mainClass": "chapter15.StackQueueDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StackSentenceReverser",
+            "request": "launch",
+            "mainClass": "chapter15.StackSentenceReverser",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StringQueuePermutator",
+            "request": "launch",
+            "mainClass": "chapter15.StringQueuePermutator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StringStackPermutator",
+            "request": "launch",
+            "mainClass": "chapter15.StringStackPermutator",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TagsChecker",
+            "request": "launch",
+            "mainClass": "chapter15.TagsChecker",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test(3)",
+            "request": "launch",
+            "mainClass": "chapter15.Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "WordFrequency",
+            "request": "launch",
+            "mainClass": "chapter15.WordFrequency",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ArrayListDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HashSetDemo",
+            "request": "launch",
+            "mainClass": "chapter16.HashSetDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListTest",
+            "request": "launch",
+            "mainClass": "chapter16.LinkedListTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ListDemo(1)",
+            "request": "launch",
+            "mainClass": "chapter16.ListDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ListDemoSec1",
+            "request": "launch",
+            "mainClass": "chapter16.ListDemoSec1",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "QueueDemo(1)",
+            "request": "launch",
+            "mainClass": "chapter16.QueueDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo(1)",
+            "request": "launch",
+            "mainClass": "chapter16.StackDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DecisionTreeDemo",
+            "request": "launch",
+            "mainClass": "chapter17.DecisionTreeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HeapDemo",
+            "request": "launch",
+            "mainClass": "chapter17.HeapDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HeapSortDemo",
+            "request": "launch",
+            "mainClass": "chapter17.HeapSortDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HuffmanDemo",
+            "request": "launch",
+            "mainClass": "chapter17.HuffmanDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RedBlackTreeTester",
+            "request": "launch",
+            "mainClass": "chapter17.RedBlackTreeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TraversalDemo",
+            "request": "launch",
+            "mainClass": "chapter17.TraversalDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TreeDemo",
+            "request": "launch",
+            "mainClass": "chapter17.TreeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TreeTester",
+            "request": "launch",
+            "mainClass": "chapter17.TreeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MaxDemo",
+            "request": "launch",
+            "mainClass": "chapter18.MaxDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PairDemo",
+            "request": "launch",
+            "mainClass": "chapter18.PairDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Print(1)",
+            "request": "launch",
+            "mainClass": "chapter18.Print",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PrintDemo",
+            "request": "launch",
+            "mainClass": "chapter18.PrintDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo(2)",
+            "request": "launch",
+            "mainClass": "chapter18.StackDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test(4)",
+            "request": "launch",
+            "mainClass": "chapter18.Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TreeTester(1)",
+            "request": "launch",
+            "mainClass": "chapter18.TreeTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TreeTester2",
+            "request": "launch",
+            "mainClass": "chapter18.TreeTester2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "UnsafeDemo",
+            "request": "launch",
+            "mainClass": "chapter18.UnsafeDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "UnsafeDemo2",
+            "request": "launch",
+            "mainClass": "chapter18.UnsafeDemo2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "WildcardDemo",
+            "request": "launch",
+            "mainClass": "chapter18.WildcardDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "AdjacentDuplicates",
+            "request": "launch",
+            "mainClass": "chapter19.AdjacentDuplicates",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CharacterPosition",
+            "request": "launch",
+            "mainClass": "chapter19.CharacterPosition",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CommonAlgorithmsRevisited",
+            "request": "launch",
+            "mainClass": "chapter19.CommonAlgorithmsRevisited",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorDemo",
+            "request": "launch",
+            "mainClass": "chapter19.ComparatorDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CountriesHowTo",
+            "request": "launch",
+            "mainClass": "chapter19.CountriesHowTo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyStream",
+            "request": "launch",
+            "mainClass": "chapter19.CurrencyStream",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FactorialStream",
+            "request": "launch",
+            "mainClass": "chapter19.FactorialStream",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FileLineStream",
+            "request": "launch",
+            "mainClass": "chapter19.FileLineStream",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GroupDemo",
+            "request": "launch",
+            "mainClass": "chapter19.GroupDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GroupDemo2",
+            "request": "launch",
+            "mainClass": "chapter19.GroupDemo2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "HigherOrderFunctions",
+            "request": "launch",
+            "mainClass": "chapter19.HigherOrderFunctions",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Horror",
+            "request": "launch",
+            "mainClass": "chapter19.Horror",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Infinite",
+            "request": "launch",
+            "mainClass": "chapter19.Infinite",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteStreamTester",
+            "request": "launch",
+            "mainClass": "chapter19.InfiniteStreamTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MethodReferences",
+            "request": "launch",
+            "mainClass": "chapter19.MethodReferences",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Movies",
+            "request": "launch",
+            "mainClass": "chapter19.Movies",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "OptionalDemo",
+            "request": "launch",
+            "mainClass": "chapter19.OptionalDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumber",
+            "request": "launch",
+            "mainClass": "chapter19.PalindromeNumber",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveStreams",
+            "request": "launch",
+            "mainClass": "chapter19.PrimitiveStreams",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo",
+            "request": "launch",
+            "mainClass": "chapter19.StreamDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemoSec1",
+            "request": "launch",
+            "mainClass": "chapter19.StreamDemoSec1",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Streams",
+            "request": "launch",
+            "mainClass": "chapter19.Streams",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StreamsSec2",
+            "request": "launch",
+            "mainClass": "chapter19.StreamsSec2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StreamsSec3",
+            "request": "launch",
+            "mainClass": "chapter19.StreamsSec3",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "StreamsSec4",
+            "request": "launch",
+            "mainClass": "chapter19.StreamsSec4",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TerminalOperations",
+            "request": "launch",
+            "mainClass": "chapter19.TerminalOperations",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Test(5)",
+            "request": "launch",
+            "mainClass": "chapter19.Test",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "Words",
+            "request": "launch",
+            "mainClass": "chapter19.Words",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "BrighterDemo",
+            "request": "launch",
+            "mainClass": "chapter2.BrighterDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CenteredSquaresPrinter",
+            "request": "launch",
+            "mainClass": "chapter2.CenteredSquaresPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CenteredSquaresViewer",
+            "request": "launch",
+            "mainClass": "chapter2.CenteredSquaresViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ColorNameViewer",
+            "request": "launch",
+            "mainClass": "chapter2.ColorNameViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "DebuggingTest",
+            "request": "launch",
+            "mainClass": "chapter2.DebuggingTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FaceViewer",
+            "request": "launch",
+            "mainClass": "chapter2.FaceViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FourRectanglePrinter",
+            "request": "launch",
+            "mainClass": "chapter2.FourRectanglePrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FourRectangleViewer",
+            "request": "launch",
+            "mainClass": "chapter2.FourRectangleViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FrameViewer",
+            "request": "launch",
+            "mainClass": "chapter2.FrameViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GrowSquarePrinter",
+            "request": "launch",
+            "mainClass": "chapter2.GrowSquarePrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "GrowSquareViewer",
+            "request": "launch",
+            "mainClass": "chapter2.GrowSquareViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionPrinter",
+            "request": "launch",
+            "mainClass": "chapter2.IntersectionPrinter",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionViewer",
+            "request": "launch",
+            "mainClass": "chapter2.IntersectionViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LineDistanceTester",
+            "request": "launch",
+            "mainClass": "chapter2.LineDistanceTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LineDistanceViewer",
+            "request": "launch",
+            "mainClass": "chapter2.LineDistanceViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "LoggerTest(1)",
+            "request": "launch",
+            "mainClass": "chapter2.LoggerTest",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MoveTester",
+            "request": "launch",
+            "mainClass": "chapter2.MoveTester",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "MyFaceViewer",
+            "request": "launch",
+            "mainClass": "chapter2.MyFaceViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "RectangleViewer",
+            "request": "launch",
+            "mainClass": "chapter2.RectangleViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TrafficLightViewer",
+            "request": "launch",
+            "mainClass": "chapter2.TrafficLightViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TranslateDemo",
+            "request": "launch",
+            "mainClass": "chapter2.TranslateDemo",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "TwoSquareViewer",
+            "request": "launch",
+            "mainClass": "chapter2.TwoSquareViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorViewer",
+            "request": "launch",
+            "mainClass": "chapter20.CalculatorViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorViewer1",
+            "request": "launch",
+            "mainClass": "chapter20.CalculatorViewer1",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "ColorViewer",
+            "request": "launch",
+            "mainClass": "chapter20.ColorViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FilledFrameViewer2",
+            "request": "launch",
+            "mainClass": "chapter20.FilledFrameViewer2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FontViewer",
+            "request": "launch",
+            "mainClass": "chapter20.FontViewer",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "FontViewer2",
+            "request": "launch",
+            "mainClass": "chapter20.FontViewer2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InvestmentViewer2",
+            "request": "launch",
+            "mainClass": "chapter20.InvestmentViewer2",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        },
+        {
+            "type": "java",
+            "name": "InvestmentViewer3",
+            "request": "launch",
+            "mainClass": "chapter20.InvestmentViewer3",
+            "projectName": "JAVA WORKSPACE_75ebcdcf"
+        }
+    ]
+}
